@@ -1,2 +1,2 @@
 # Credit-card-fraud-detection
-Prediction of fraudulent credit card transactions with the help of various Machine learning models
+Prediction of fraudulent credit card transactions using Logistic Regression, KNN, SVM, Decision Tree, Random Forest, XGBoost
